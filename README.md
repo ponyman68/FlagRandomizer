@@ -10,6 +10,6 @@ Userscript for randomizing /mlp/ post flag.
 
 # Usage
 
-Enalble the Randomizer and choose egligible flags in the `Flag Randomizer Options` menu. 
+Enable/Disable the Randomizer and choose egligible flags in the `Flag Randomizer Options` menu. 
 
 Randomizes on page load, on opening the QuickReply box, and via a button next to the flag dropdown. 
